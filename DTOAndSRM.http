@@ -1,0 +1,6 @@
+@DTOAndSRM_HostAddress = http://localhost:5047
+
+GET {{DTOAndSRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
